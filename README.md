@@ -5,7 +5,7 @@
 Simply install module by executing:
 
 ```bash
-pip install .
+$ pip install ./
 ```
 
 ## Supported sprockets types
@@ -30,8 +30,8 @@ Simple sprocket with straightforward design and without additional abilities.
 
 Wealth of design information was taken from two resources:
 
-* (Designing and Drawing a Sprocket)[http://www.gearseds.com/files/design_draw_sprocket_5.pdf]
-* (Sprocket Design Tutorial)[https://www.chiefdelphi.com/t/sprocket-design-tutorial/387449]
+* [Designing and Drawing a Sprocket](http://www.gearseds.com/files/design_draw_sprocket_5.pdf)
+* [Sprocket Design Tutorial](https://www.chiefdelphi.com/t/sprocket-design-tutorial/387449)
 
 ## License
 
